@@ -2,4 +2,8 @@ Estrela
 
 2
 
+<<<<<<< HEAD
 usuari2
+=======
+usuari1
+>>>>>>> 525b3103be76d078f2567347b19cf29f88e98606
